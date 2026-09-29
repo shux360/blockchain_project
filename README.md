@@ -6,6 +6,8 @@ ConsentChain is an Ethereum dApp for **revocable, purpose-bound and time-limited
 
 - EG/2021/4877 — Wijesinghe S.A
 - EG/2021/4651 — Madakaladeniya I.U
+- EG/2021/4667 — Malsha H.C
+- EG/2021/4597 — Karunanayake W.H.P.T.H
 
 ## Why blockchain?
 

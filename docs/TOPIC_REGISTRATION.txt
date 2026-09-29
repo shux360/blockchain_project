@@ -1,6 +1,6 @@
 Project name: ConsentChain – Blockchain-Based Research Data Consent Management
 
-Group members: EG/2021/4877 - Wijesinghe S.A, EG/2021/4651 - Madakaladeniya I.U
+Group members: EG/2021/4877 - Wijesinghe S.A, EG/2021/4651 - Madakaladeniya I.U, EG/2021/4667 - Malsha H.C, EG/2021/4597 - Karunanayake W.H.P.T.H
 
 Domain: Healthcare Research / Data Privacy / Consent Management
 

@@ -3,7 +3,7 @@
 ## 1. Project identity
 
 **Module:** EC8204 Blockchain and Cyber Security  
-**Team:** EG/2021/4877 — Wijesinghe S.A; EG/2021/4651 — Madakaladeniya I.U  
+**Team:** EG/2021/4877 — Wijesinghe S.A; EG/2021/4651 — Madakaladeniya I.U; EG/2021/4667 — Malsha H.C; EG/2021/4597 — Karunanayake W.H.P.T.H  
 **Domain:** Healthcare Research / Consent Management  
 **Application:** Patient-controlled authorization for research-data access
 
