@@ -1,0 +1,7 @@
+Project name: ConsentChain – Blockchain-Based Research Data Consent Management
+
+Group members: EG/2021/4877 - Wijesinghe S.A, EG/2021/4651 - Madakaladeniya I.U
+
+Domain: Healthcare Research / Data Privacy / Consent Management
+
+Application: A blockchain-based consent registry where patients grant approved researchers purpose-bound, time-limited permission to use specified categories of research data. Patients can revoke consent directly from their wallets, while researchers and auditors can verify the current authorization state and immutable history. Personal and medical data remain off-chain; only hashed references and consent metadata are recorded on Ethereum.
